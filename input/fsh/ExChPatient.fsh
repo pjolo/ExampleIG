@@ -23,4 +23,3 @@ Usage: #example
 * communication.language = urn:ietf:bcp:47#de-CH
 * communication.language.text = "Deutsch (Schweiz)"
 * communication.preferred = true
-* cit
