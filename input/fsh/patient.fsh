@@ -5,6 +5,8 @@ Profile: MyPatient
 Parent: Patient
 Description: "An example profile of the Patient resource."
 * name 1..* MS
+* name ^short = "Name der Patientin / des Patienten"
+* name ^definition = "Angabe des Namens"
 
 Instance: PatientExample
 InstanceOf: MyPatient
